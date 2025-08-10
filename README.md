@@ -11,6 +11,8 @@
 
  - [oral발표](https://github.com/waterfirst/2025_SID/blob/master/2025%20SID_NC%20CHOI_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
  
+ <a href="https://github.com/waterfirst/2025_SID/blob/master/2025%20SID_NC%20CHOI_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf" target="_blank">PDF 전체 화면 보기</a>
+
  
 
 This repository contains the files for the 2025 SID project. It includes the HTML, CSS, and JavaScript files for the project presentation or application.
