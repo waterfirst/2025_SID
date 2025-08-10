@@ -1,10 +1,11 @@
 
 # 2025 SID Project
 
-
+![홈 배너 이미지](home.jpg)
   
   
 *2025 SID Symposium — Display & Technology Research Project*
+
 ![홈 배너 이미지](images/home.jpg)
 ---
 
