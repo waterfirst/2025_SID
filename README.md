@@ -5,7 +5,7 @@
   
   
 *2025 SID Symposium — Display & Technology Research Project*
-
+![홈 배너 이미지](images/home.jpg)
 ---
 
 ## 👋 환영합니다
