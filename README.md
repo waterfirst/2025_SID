@@ -6,7 +6,11 @@ https://waterfirst.github.io/2025_SID/
 - [SID.pdf](SID.pdf)
 - [2025-Symposium-Advance-Program.pdf](2025-Symposium-Advance-Program.pdf)
 
-- 
+
+ ## 발표 자료
+
+ - [oral발표](https://github.com/waterfirst/2025_SID/blob/master/2025%20SID_NC%20CHOI_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+ 
 
 This repository contains the files for the 2025 SID project. It includes the HTML, CSS, and JavaScript files for the project presentation or application.
 
