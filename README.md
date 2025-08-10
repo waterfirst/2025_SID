@@ -1,7 +1,6 @@
 # 2025 SID Project
 
-- [일정표(index.html)](index.html)
-- [website](https://waterfirst.github.io/2025_SID/)
+- [일정표](https://waterfirst.github.io/2025_SID/)
 
 ## 프로젝트 문서
 - [SID.pdf](SID.pdf)
